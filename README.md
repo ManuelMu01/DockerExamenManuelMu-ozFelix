@@ -32,5 +32,17 @@ h6
 (vienen las dos en una foto)
 
 ### APARTADO 2
+### DOCKERFILE Proyecto Tomcat
+#### Creamos una carpeta entramos y cremaos un dockerfild con vi Dockerfile
+h7
+#### Rellenamos todo 
+h8
+Hacemos un build
+h9
+Hacemos un docker images para mirar que la tengamos
+h10
+Subir la imagen
+Hacemos un docker login
+h11
 generar una imagen y subir la imagen 
 copy  se puede eliminar
