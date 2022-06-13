@@ -44,5 +44,11 @@ h10
 Subir la imagen
 Hacemos un docker login
 h11
-generar una imagen y subir la imagen 
-copy  se puede eliminar
+Hacemos un tag para preparar la imagen para que sea aceptada en este registro público
+h12
+Ya estaria lista para subirse 
+Hacemos un push manu1661/2703bbe9e9d4:v1 para subirlo
+h13
+Ya lo tendiramos en el Docker Hub
+h14
+https://hub.docker.com/u/manu1661
